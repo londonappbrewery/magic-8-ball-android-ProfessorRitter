@@ -1,7 +1,5 @@
 .gradle
 /.idea/vcs.xml
-/.idea/workspace.xml
-/.idea/encodings.xml
 /local.properties
 .DS_Store
 /build
